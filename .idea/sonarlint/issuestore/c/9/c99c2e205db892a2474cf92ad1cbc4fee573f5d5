@@ -1,0 +1,8 @@
+
+V
+squid:S106O"9Replace this use of System.out or System.err by a logger.(Ù©È±8É×Ä‰’-
+[
+squid:S106Q"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ8É×Ä‰’-
+Tsquid:S2589A"7Remove this expression which always evaluates to "true"(¼Ÿ	8‡—¿‰’-
+rsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(‹Ş°§
+usquid:S3776"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(„¨»‡úÿÿÿÿ8„¶ˆ‰’-
